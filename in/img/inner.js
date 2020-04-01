@@ -1,4 +1,5 @@
 const table = {
+  'prima': 'http://r92244o2.beget.tech/img/54209W56w9t7/jpg',
   'first': 'https://mail.ru',
   'second': 'https://google.com',
 }
