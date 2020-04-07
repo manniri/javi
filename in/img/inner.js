@@ -1,6 +1,7 @@
 const table = {
   'prima': 'http://r92244o2.beget.tech/img/54209W56w9t7/jpg',
   'mspa': 'http://g964777u.beget.tech/moto/mspa',
+  '07don': 'http://g964777u.beget.tech/moto/07don',
   'first': 'https://mail.ru',
   'second': 'https://google.com',
 }
